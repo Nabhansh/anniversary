@@ -32,7 +32,7 @@ Follow these steps to run the project locally:
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/Anuj579/anniversary-site.git
+git clone https://github.com/Nabhansh/anniversary.git
 cd anniversary-site
 ```
 
@@ -58,16 +58,6 @@ npm run dev
 - Replace the images in the `public` folder to personalize the photo gallery.
 - Update `/public/bg.mp3` for your own background music.
 - Customize text, emojis, and theme colors to fit your vibe.
-
----
-
-## 🌐 Connect with Me
-
-- 📸 Instagram: [@anujbuilds](https://instagram.com/anujbuilds)
-- 🐦 Twitter: [@anujbuilds](https://twitter.com/anujbuilds)
-- 💼 LinkedIn: [Anuj Chaudhary](https://linkedin.com/in/anujchaudhary549)
-- 📺 YouTube: [@anujbuilds](https://youtube.com/@anujbuilds)
-
 ---
 
 Thanks for checking out this project! 💗  
